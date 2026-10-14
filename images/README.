@@ -1,1 +1,27 @@
+# ESP32 Sensor Interface PCB
 
+## Project Overview
+A custom ESP32-based sensor interface PCB designed using KiCad for embedded systems and IoT applications.
+
+## Design Features
+- ESP32 DevKit interface
+- DHT22 temperature and humidity sensor connector
+- MQ-135 air-quality sensor connector
+- Supporting resistors and sensor connections
+- PCB layout and 3D visualization using KiCad
+
+## Tools Used
+- KiCad Schematic Editor
+- KiCad PCB Editor
+- KiCad 3D Viewer
+
+## Design Preview
+- Circuit schematic
+- 2D PCB layout
+- 3D PCB model
+
+## Project Status
+PCB design created in KiCad. Fabrication and hardware testing have not yet been completed.
+
+## Skills Practised
+Schematic design, footprint assignment, component placement, PCB routing, and 3D board visualization.
